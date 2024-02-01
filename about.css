@@ -1,0 +1,131 @@
+/* nav-bar started */
+.bg-dark{
+    background-color: black;
+}
+.nav-bar{
+    display: flex;
+    
+}
+#nav-items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    word-wrap: wrap;
+    margin-left: 280px;
+    gap: 40px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav-image{
+    margin-left: 90px;
+}
+.Franchise{
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 30px;
+    
+}
+.Order{
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    padding: 20px;
+    border-radius: 30px;
+    
+}
+.icon{
+    width: 29px;
+    background-color: white;
+}
+/* nav-bar closed */
+.text-white{
+    color: white;
+}
+.center{
+    text-align: center;
+}
+h4{
+    font-weight: 100;
+    color: rgb(128, 139, 150);
+    font-size: 19px;
+}
+.head{
+    font-size: 15px;
+}
+.d-flex{
+display: flex;
+}
+.jc-e{
+justify-content: end;
+}
+.j-c{
+    justify-content: center;
+}
+.j-b{
+    justify-content: space-between;
+}
+.j-a{
+    justify-content: space-around;
+}
+.j-e{
+    justify-content: space-evenly;
+}
+.a-c{
+    align-items: center;
+}
+.a-b{
+    align-items: space-between;
+}
+.a-a{
+    align-items: space-around;
+}
+.a-e{
+    align-items: space-evenly;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.f-c{
+    flex-direction: column;
+}
+.f-r{
+    flex-direction: row;
+}
+.f-start{
+    justify-content: flex-start;
+}
+#font{
+    font-size: 15px;
+}
+.bor{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.pad{
+    padding: 10px;
+}
+.jc-start{
+    justify-content: start;
+}
+.al-start{
+align-items: start;
+}
+.text-gray{
+    color: gray;
+}
+.bg-gray{
+    background-color: rgb(29, 28, 28);
+}
+.bor{
+    border-top: 1px solid lightslategray;
+
+}
+.p-t{
+padding-top: 50px;
+}
